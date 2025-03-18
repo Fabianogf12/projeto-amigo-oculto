@@ -26,15 +26,11 @@ Este projeto é uma aplicação simples para organizar um sorteio de Amigo Ocult
 
 1. Clone o repositório:
 
-   `git clone https://github.com/Fabianogf12/projeto-amigo-oculto.git`
+[   `git clone https://github.com/Fabianogf12/projeto-amigo-oculto.git`](https://github.com/Fabianogf12/projeto-amigo-oculto.git)
 
 2. Abra o arquivo `index.html` em um navegador.
 3. Adicione os nomes dos participantes e clique para sortear.
 
-🌐 **Acesse o Projeto Online**
-
-Você pode acessar a versão web do projeto aqui:  
-[Visite o projeto](https://fabianogf12.github.io/projeto-amigo-oculto/)
 
 🐞 **Possíveis Problemas**
 
