@@ -1,49 +1,47 @@
-🎁 Projeto Amigo Oculto
+🎁 **Projeto Amigo Oculto**
 
 Este projeto é uma aplicação simples para organizar um sorteio de Amigo Oculto utilizando HTML, CSS e JavaScript. Ele permite adicionar amigos a uma lista e realizar o sorteio aleatório de um participante.
 
-🚀 Funcionalidades
+🚀 **Funcionalidades**
 
-Adicionar amigos à lista
+- Adicionar amigos à lista
+- Exibir a lista de amigos cadastrados
+- Sortear um amigo aleatoriamente
+- Exibir o resultado do sorteio
 
-Exibir a lista de amigos cadastrados
+📂 **Estrutura do Projeto**
 
-Sortear um amigo aleatoriamente
+/amigo_oculto  
+|-- index.html # Estrutura da página  
+|-- style.css  # Estilização do projeto  
+|-- script.js  # Lógica de funcionamento
 
-Exibir o resultado do sorteio
+🛠 **Tecnologias Utilizadas**
 
-📂 Estrutura do Projeto
+- HTML para estruturação
+- CSS para estilização
+- JavaScript para manipulação do DOM e lógica do sorteio
 
-/amigo_oculto
-|-- index.html  # Estrutura da página
-|-- style.css   # Estilização do projeto
-|-- script.js   # Lógica de funcionamento
+📌 **Como Usar**
 
-🛠 Tecnologias Utilizadas
+1. Clone o repositório:
 
-HTML para estruturação
+   `git clone https://github.com/Fabianogf12/projeto-amigo-oculto.git`
 
-CSS para estilização
+2. Abra o arquivo `index.html` em um navegador.
+3. Adicione os nomes dos participantes e clique para sortear.
 
-JavaScript para manipulação do DOM e lógica do sorteio
+🌐 **Acesse o Projeto Online**
 
-📌 Como Usar
+Você pode acessar a versão web do projeto aqui:  
+[Visite o projeto](https://fabianogf12.github.io/projeto-amigo-oculto/)
 
-Clone o repositório:
+🐞 **Possíveis Problemas**
 
-https://github.com/Fabianogf12/projeto-amigo-oculto.git
+- Não é possível sortear com menos de dois participantes: Adicione pelo menos dois nomes para realizar o sorteio.
+- A lista não aparece: Verifique se o JavaScript está ativado no navegador.
 
-Abra o arquivo index.html em um navegador.
-
-Adicione os nomes dos participantes e clique para sortear.
-
-🐞 Possíveis Problemas
-
-Não é possível sortear com menos de dois participantes: Adicione pelo menos dois nomes para realizar o sorteio.
-
-A lista não aparece: Verifique se o JavaScript está ativado no navegador.
-
-📄 Licença
+📄 **Licença**
 
 Este projeto está sob a licença MIT. Sinta-se à vontade para modificá-lo e melhorá-lo!
 
