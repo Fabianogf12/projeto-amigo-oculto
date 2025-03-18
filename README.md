@@ -31,7 +31,7 @@ JavaScript para manipulação do DOM e lógica do sorteio
 
 Clone o repositório:
 
-git clone https://github.com/seu-usuario/amigo-oculto.git
+https://github.com/Fabianogf12/projeto-amigo-oculto.git
 
 Abra o arquivo index.html em um navegador.
 
